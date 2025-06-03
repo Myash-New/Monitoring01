@@ -58,14 +58,14 @@
 ## 7.
 ChronografWEB
 
-![ChronografWEB]()
+![ChronografWEB](https://github.com/Myash-New/Monitoring01/blob/main/ChronografWEB.jpg)
 
 ## 8.
 CPU_USAGE
 
-![ChronografWEB_1]()
+![ChronografWEB_1](https://github.com/Myash-New/Monitoring01/blob/main/ChronografWEB_1.jpg)
 
 ## 9.
 Docker Measurment
 
-![ChronografWEB_2]()
+![ChronografWEB_2](https://github.com/Myash-New/Monitoring01/blob/main/ChronografWEB_2.jpg)
